@@ -16,7 +16,7 @@
 
 > *"I don't just write code — I build systems that think, see, and solve."*
 
-I'm a **B.E. Information Technology** student at **NBN Sinhgad Institute of Technology, Pune**, driven by a deep curiosity for AI, machine learning, and real-world engineering. I've had the privilege of turning that curiosity into production systems through internships at **Mahindra CIE Automotive** and **Siemens** — two of India's most respected industrial powerhouses.
+I'm a **B.TECH. Information Technology** student at **NBN Sinhgad Institute of Technology, Pune**, driven by a deep curiosity for AI, machine learning, and real-world engineering. I've had the privilege of turning that curiosity into production systems through internships at **Mahindra CIE Automotive** and **Siemens** — two of India's most respected industrial powerhouses.
 
 My flagship work — an **AI/ML-based Nut Detection System** deployed on Raspberry Pi — replaced manual quality inspection on a live automotive assembly line and earned **company sponsorship for continued R&D**. This is the kind of impact I chase: intelligent systems that don't just demo well, but actually work in the field.
 
